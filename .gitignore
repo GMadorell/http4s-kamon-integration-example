@@ -1,0 +1,10 @@
+target/
+
+# Edit at https://www.gitignore.io/?templates=scala
+
+### Scala ###
+*.class
+*.log
+*.metals
+
+# End of https://www.gitignore.io/api/scala

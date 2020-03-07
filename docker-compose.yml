@@ -1,0 +1,7 @@
+influxdb:
+  image: influxdb:latest
+  container_name: influxdb_http4s_kamon
+  ports:
+    - "8083:8083"
+    - "8086:8086"
+    - "8090:8090"
